@@ -3,7 +3,7 @@
 
 AUTHOR = 'Brian Qi'
 SITENAME = 'My wacky site'
-SITEURL = 'https://bqi1.github.io'
+SITEURL = 'https://github.com/bqi1/bqi1.github.io'
 THEME = 'templates/mytheme'
 PATH = 'content'
 
