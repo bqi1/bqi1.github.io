@@ -4,7 +4,7 @@
 AUTHOR = 'Brian Qi'
 SITENAME = 'My wacky site'
 SITEURL = ''
-
+THEME = 'templates/mytheme'
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
